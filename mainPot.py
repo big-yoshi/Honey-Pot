@@ -176,11 +176,3 @@ def main():
 if __name__ == '__main__':
 	signal.signal(signal.SIGINT, handler)
 	main()
-	
-
-
-	#ips = ['1.66.7.156','27.217.81.123','63.209.214.145','232.120.52.252','14.111.114.49']
-
-	#for ip in ips:
-		#geo_locate(ip)
-		#print("-*-"*20)
