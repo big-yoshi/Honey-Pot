@@ -15,8 +15,8 @@ after downloading the requirement put the database in the script folder and run 
 # How to run ?
 `python mainPot.py`
 
-![Listening](Screenshot (177).png)
-![Preys Caught](Screenshot (176).png)
+![Listening](https://raw.githubusercontent.com/big-yoshi/Honey-Pot/master/Screenshot%20(177).png)
+![Preys Caught](https://raw.githubusercontent.com/big-yoshi/Honey-Pot/master/Screenshot%20(176).png)
 
 
 # Disclaimer
