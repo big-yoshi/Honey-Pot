@@ -15,5 +15,9 @@ after downloading the requirement put the database in the script folder and run 
 # How to run ?
 `python mainPot.py`
 
+![Listening](Screenshot (177).png)
+![Preys Caught](Screenshot (176).png)
+
+
 # Disclaimer
 theres a multithreading problem CTRL-C doesn't work terminate the task through task manager
