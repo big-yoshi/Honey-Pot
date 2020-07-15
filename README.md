@@ -9,7 +9,8 @@ i found it in my old folder decided to share it
 * you can download it or go to maxmind.com to get your database
 
 
-
+#setup
+after downloading the requirement put the database in the script folder and run it
 
 # How to run ?
 `python mainPot.py`
